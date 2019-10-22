@@ -1,5 +1,5 @@
 <?php
-namespace Overmellow\Calc;
+namespace overmellow\calc;
 
 class Calculator
 {
