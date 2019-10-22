@@ -1,0 +1,8 @@
+{
+    "name": "overmellow/calc",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "overmellow/calc": "1.*"
+    }
+}
