@@ -2,10 +2,18 @@
     "name": "overmellow/calc",
     "type": "library",
     "version": "1.0.1",
+    "license": "MIT",
     "require": {
         "php": "^7.1"
     },
     "autoload": {
         "psr-4": {"overmellow\\": "src/"}
-    }
+    },
+    "authors": [
+        {
+            "name": "overmellow",
+            "email": "morteza_faraji@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable"
 }
